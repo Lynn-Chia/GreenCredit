@@ -67,6 +67,3 @@ uploads/
 Thumbs.db
 desktop.ini
 
-# --- Project-specific ------------------------------------------------------
-# Generated PDFs from samples/_make_pdfs.py — keep the .txt sources only.
-samples/**/*.pdf
