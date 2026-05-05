@@ -1,0 +1,57 @@
+================================================================
+    ACME GREEN MANUFACTURING — SUPPLIER CODE OF CONDUCT
+              & ESG GOVERNANCE POLICY (v3.2)
+================================================================
+
+Document ID         : POL-ESG-001
+Policy Owner        : Chief Sustainability Officer (CSO)
+Approved By         : Board of Directors (resolution 2025/06/04-7)
+Approval Date       : 2025-06-01
+Effective Date      : 2025-07-01
+Review Frequency    : Annually, or sooner upon material change
+Next Scheduled Review: 2026-06-30
+
+----------------------------------------------------------------
+1. PURPOSE & SCOPE
+This policy applies to all suppliers, sub-contractors and service
+providers engaged by Acme Green Manufacturing globally and forms
+part of every purchase order and master services agreement.
+
+2. COMPLIANCE REQUIREMENTS
+Suppliers shall:
+    a. Maintain ISO 14001 (or equivalent) alignment for any site
+       producing more than 100 tCO2e/year on Acme's behalf.
+    b. Prohibit child labour, forced labour and human trafficking
+       (ILO Conventions 138 and 182).
+    c. Submit an annual conflict-minerals declaration (3TG).
+    d. Comply with the Acme Anti-Bribery & Anti-Corruption Policy.
+    e. Disclose Scope 1 + Scope 2 emissions where revenue from
+       Acme exceeds S$ 500,000 per year.
+
+3. SUPPLIER AUDIT FREQUENCY
+    Tier-1 strategic suppliers: audited annually (on-site).
+    Tier-2 suppliers           : audited every 24 months.
+    Tier-3 suppliers           : self-assessment questionnaire
+                                  every 36 months.
+Auditors are independent and accredited (e.g., SGS, BV, DNV).
+
+4. ESCALATION PROCEDURE
+    Step 1: Non-conformance logged and CAP issued (30 days).
+    Step 2: Failure to close CAP -> escalation to CSO.
+    Step 3: Two strikes within 12 months -> Board ESG Committee
+            review; possible contract suspension or termination.
+    Step 4: Material breaches reported to MAS-aligned green
+            financing counterparties.
+
+5. WHISTLEBLOWING
+A 24/7 anonymous channel (run by EthicsPoint) is available to
+suppliers and their employees. Retaliation is prohibited.
+
+----------------------------------------------------------------
+Approved on behalf of the Board:
+
+[Signature on file]              [Signature on file]
+Mr. R. Subramaniam               Ms. Wei Ling Tan
+Chair, ESG Committee             Chief Sustainability Officer
+2025-06-01                       2025-06-01
+================================================================

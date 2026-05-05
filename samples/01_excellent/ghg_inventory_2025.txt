@@ -1,0 +1,55 @@
+================================================================
+       ANNUAL GREENHOUSE GAS INVENTORY REPORT — FY 2025
+       Acme Green Manufacturing Pte Ltd
+================================================================
+
+Reporting Entity      : Acme Green Manufacturing Pte Ltd (Singapore)
+Reporting Year        : 2025 (1 Jan 2025 – 31 Dec 2025)
+Baseline Year         : 2022
+Methodology           : GHG Protocol Corporate Standard, Revised Edition
+                        (WRI/WBCSD); Scope 2 calculated using market-based
+                        method per Scope 2 Guidance.
+Operational Boundary  : Singapore manufacturing site, owned vehicles,
+                        and purchased electricity/heat.
+Assurance Provider    : Bureau Veritas Certification (S) Pte Ltd
+Assurance Level       : Limited assurance per ISAE 3410
+
+----------------------------------------------------------------
+SCOPE 1 — DIRECT EMISSIONS (tCO2e)
+    On-site combustion (town gas)        :    62.1
+    Owned diesel forklifts and vehicles  :    66.3
+    -----------------------------------------------
+    Scope 1 total (2025)                 :   128.4
+    Scope 1 baseline (2022)              :   162.0
+    YoY vs 2024                          :   -6.4%
+
+SCOPE 2 — PURCHASED ELECTRICITY (tCO2e, market-based)
+    Grid electricity (post-REC)          :   412.1
+    Scope 2 baseline (2022)              :   510.3
+    YoY vs 2024                          :   -7.2%
+
+SCOPE 3 — VALUE CHAIN (tCO2e)
+    Purchased goods & services           :   612.4
+    Upstream transport & distribution    :   188.2
+    Business travel                      :    24.7
+    Employee commuting                   :    61.0
+    Waste generated in operations        :    94.2
+    -----------------------------------------------
+    Scope 3 total (2025)                 :   980.5
+    Scope 3 baseline (2022)              : 1,150.2
+
+EMISSIONS INTENSITY
+    2025                                 : 0.42 tCO2e / SGD '000 revenue
+    2024                                 : 0.45 tCO2e / SGD '000 revenue
+    2022 baseline                        : 0.55 tCO2e / SGD '000 revenue
+
+----------------------------------------------------------------
+KEY YOY OBSERVATIONS
+- Absolute Scope 1+2 down 8.0% vs 2024, 19.6% vs baseline.
+- Intensity reduction of 23.6% vs baseline driven by rooftop PV
+  installation (Q3 2024) and LED retrofit (completed Q1 2025).
+- Trend is consistent and operationally explainable.
+
+Signed:  Wei Ling Tan, Sustainability Manager (CSO Office)
+Date:    2026-02-28
+================================================================

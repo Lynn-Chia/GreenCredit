@@ -1,0 +1,24 @@
+================================================================
+       GHG REPORT (SELF-DECLARED) — FY 2025
+       Redstar Logistics LLP
+================================================================
+
+Reporting Year      : 2025
+Baseline Year       : 2024
+Methodology         : Internal spreadsheet (not GHG Protocol aligned)
+Assurance Provider  : None (self-declared)
+
+Scope 1 emissions   :   118.0 tCO2e   (2024: 920.0 tCO2e)
+Scope 2 emissions   :   142.5 tCO2e   (2024: 615.0 tCO2e)
+Scope 3 emissions   :   not measured
+Emissions intensity : not calculated
+
+Year-over-year change:
+    Scope 1+2 down ~ 75% vs 2024.
+    No corresponding operational changes reported (fleet size,
+    warehouse footprint and shift hours unchanged).
+
+Note: Drop attributed to "internal accounting reclassification".
+No supporting evidence (invoices, fuel logs, EUA cancellations,
+PPA contracts) is attached.
+================================================================

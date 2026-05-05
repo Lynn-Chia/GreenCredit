@@ -1,0 +1,72 @@
+# --- Secrets ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+develop-eggs/
+.installed.cfg
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Virtual environments --------------------------------------------------
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# --- Flask -----------------------------------------------------------------
+instance/
+.webassets-cache
+*.sqlite
+*.sqlite3
+*.db
+
+# --- Tests / coverage ------------------------------------------------------
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+
+# --- Type checkers / linters ----------------------------------------------
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.dmypy.json
+
+# --- Logs / runtime artefacts ---------------------------------------------
+*.log
+logs/
+tmp/
+uploads/
+
+# --- Editors / IDEs --------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS --------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Project-specific ------------------------------------------------------
+# Generated PDFs from samples/_make_pdfs.py — keep the .txt sources only.
+samples/**/*.pdf

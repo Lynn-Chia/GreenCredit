@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Green Credit Assessment Engine</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="leaf">&#127811;</span>
+      <div>
+        <h1>Green Credit Assessment Engine</h1>
+        <p>AI-powered ESG scoring for MSME sustainability-linked financing</p>
+      </div>
+    </div>
+    <div class="formula">GreenScore = 0.35E + 0.25V + 0.20T + 0.20G</div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>1. Upload borrower documents</h2>
+      <p class="hint">Utility bills (E), ISO certificates (V), GHG / ESG reports (T), supplier policies (G). PDF, PNG, JPG, or text. Up to 12 files, 20 MB each.</p>
+
+      <label class="dropzone" id="dropzone">
+        <input type="file" id="fileInput" multiple accept=".pdf,.png,.jpg,.jpeg,.webp,.txt,.csv,application/pdf,image/*,text/*" hidden />
+        <div class="drop-content">
+          <div class="drop-icon">&#8682;</div>
+          <div><strong>Drop files here</strong> or click to browse</div>
+          <div class="muted">PDF / Image / Text</div>
+        </div>
+      </label>
+
+      <ul id="fileList" class="file-list"></ul>
+
+      <div class="actions">
+        <button id="assessBtn" class="primary" disabled>Run Assessment</button>
+        <button id="clearBtn" class="ghost" disabled>Clear</button>
+      </div>
+    </section>
+
+    <section id="loading" class="card hidden">
+      <div class="spinner"></div>
+      <p>Parsing documents and scoring with Gemini... this may take 10-40 seconds.</p>
+    </section>
+
+    <section id="error" class="card error hidden"></section>
+
+    <section id="results" class="results hidden">
+      <div class="card score-card">
+        <div class="score-main">
+          <div class="score-ring">
+            <span id="scoreValue">0</span>
+            <small>/ 100</small>
+          </div>
+          <div class="score-meta">
+            <div id="ratingBadge" class="badge">--</div>
+            <div id="decisionBadge" class="badge subtle">--</div>
+            <div id="discountBadge" class="badge subtle">-- bps</div>
+          </div>
+        </div>
+        <div class="score-intro" id="introText"></div>
+        <ul id="keyReasons" class="reasons"></ul>
+      </div>
+
+      <div class="card">
+        <h2>Component Scores</h2>
+        <div class="components" id="components"></div>
+      </div>
+
+      <div class="card">
+        <h2>Risk Flags</h2>
+        <div id="riskFlags"></div>
+      </div>
+
+      <div class="card">
+        <h2>Extracted Document Evidence</h2>
+        <div id="documents"></div>
+      </div>
+
+      <div class="card">
+        <h2>Raw JSON</h2>
+        <pre id="rawJson"></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">Powered by Gemini &middot; Designed for digital bank ESG underwriting</footer>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

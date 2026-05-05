@@ -1,0 +1,33 @@
+================================================================
+       FIRST-YEAR GHG INVENTORY DISCLOSURE — FY 2025
+       Blueroot Foods Pte Ltd
+================================================================
+
+Reporting Year      : 2025 (1 Jan 2025 – 31 Dec 2025)
+Baseline Year       : Not yet established — 2025 will serve as the
+                      future baseline once a second year of data
+                      is collected.
+Methodology         : GHG Protocol Corporate Standard.
+Assurance Provider  : None (self-reported, first cycle).
+
+SCOPE 1
+    Stationary combustion (gas)        :  168.4 tCO2e
+    Mobile sources (refrigeration)     :   42.8 tCO2e
+    Scope 1 total                      :  211.2 tCO2e
+
+SCOPE 2 (location-based)
+    Purchased electricity              :  287.5 tCO2e
+
+SCOPE 3
+    Not yet quantified — planned for FY 2026.
+
+EMISSIONS INTENSITY
+    2025                               : 0.61 tCO2e / SGD '000 revenue
+
+NOTE: As 2025 is our first reporting year there is no prior-year
+or baseline comparison available. Year-over-year improvement
+cannot be determined for this cycle.
+
+Prepared by: Operations & Compliance Team
+Date       : 2026-03-12
+================================================================

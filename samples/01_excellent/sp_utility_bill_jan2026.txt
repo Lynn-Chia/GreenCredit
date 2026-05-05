@@ -1,0 +1,46 @@
+================================================================
+              SP GROUP — UTILITIES TAX INVOICE
+================================================================
+
+Bill To:        Acme Green Manufacturing Pte Ltd
+                12 Tuas Avenue 5, Singapore 639342
+Account No:     9000-1234-AC
+Invoice No:     SP-INV-2026-0119887
+Issue Date:     5 February 2026
+
+Service Address:
+                12 Tuas Avenue 5, Singapore 639342
+Meter ID(s):    Electricity SP-EM-77821 / Water SP-WM-44219 / Gas SP-GM-30551
+
+----------------------------------------------------------------
+BILLING PERIOD: 1 January 2026 – 31 January 2026 (31 days)
+----------------------------------------------------------------
+
+ELECTRICITY
+    Total consumption        :  18,420 kWh
+    Peak demand              :     145 kW
+    Tariff (non-residential) :  S$ 0.2914 / kWh
+    Subtotal                 :  S$  5,367.59
+
+ROOFTOP SOLAR (Net Metering)
+    Generation exported back :   4,860 kWh
+    Self-consumption credit  :  S$ 1,416.20
+    -> Renewable share of consumption: ~26% on-site
+
+WATER
+    Total water usage        :     312 m3
+    Subtotal                 :  S$    822.86
+
+TOWN GAS
+    Fuel consumption         :   1,250 kWh
+    Subtotal                 :  S$    255.13
+
+----------------------------------------------------------------
+TOTAL DUE                    :  S$  5,029.38
+Due Date                     :  25 February 2026
+----------------------------------------------------------------
+
+Note: This account is enrolled in SP Group's Green Energy Certificate
+program; 100% of remaining grid electricity is matched with REC-I
+certificates issued by Energy Market Authority.
+================================================================

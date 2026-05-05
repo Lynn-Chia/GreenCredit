@@ -1,0 +1,27 @@
+================================================================
+              SP GROUP — UTILITIES TAX INVOICE
+================================================================
+
+Bill To:        Blueroot Foods Pte Ltd
+                8 Senoko Way, Singapore 758020
+Account No:     9000-7788-AC
+Service Address: 8 Senoko Way, Singapore 758020
+Meter ID:       SP-EM-91204 (electricity), SP-WM-55104 (water)
+
+Billing Period: 1 October 2025 – 31 December 2025 (Q4)
+
+ELECTRICITY
+    Total consumption        :  142,300 kWh
+    On-site rooftop solar    :    9,200 kWh (≈ 6% of consumption)
+
+WATER
+    Total water usage        :    2,840 m3
+
+NATURAL GAS (boilers)
+    Fuel consumption         :   86,400 kWh
+
+----------------------------------------------------------------
+TOTAL DUE                    :  S$ 41,927.45
+================================================================
+Note: First green-bill issued; previous quarters under former
+      operator account.

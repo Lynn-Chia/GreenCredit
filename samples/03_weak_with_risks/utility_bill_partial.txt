@@ -1,0 +1,21 @@
+================================================================
+                  UTILITY BILL (PARTIAL SCAN)
+================================================================
+
+Customer:       Redstar Logistics LLP
+Address:        23 Pioneer Crescent, Singapore 628555
+Account No:     [unreadable due to scan damage]
+Meter ID:       SP-EM-???? (illegible)
+
+Billing Period: [date partially obscured] — appears to be either
+                "1 May 2025 - 31 May 2025" or "1 May 2024 - 31 May 2024"
+
+Total Electricity Consumption:    47,200 kWh
+Solar / Renewable Generation  :    0 kWh (no on-site renewables)
+Water Usage                   :    [field blank]
+Fuel (diesel for fleet, est.) :    not reported on this invoice
+
+Notes from auditor:
+    Image is low resolution and several fields including the
+    meter ID and account number are not legible.
+================================================================

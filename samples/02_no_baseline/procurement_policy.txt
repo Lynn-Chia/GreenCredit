@@ -1,0 +1,30 @@
+================================================================
+   BLUEROOT FOODS — RESPONSIBLE PROCUREMENT POLICY (v1.1)
+================================================================
+
+Policy Owner        : Head of Procurement
+Approved By         : Managing Director
+Approval Date       : 2024-11-15
+Review Frequency    : Every 24 months
+Last Reviewed       : 2024-11-15
+Next Review         : 2026-11-15
+
+Compliance Requirements
+    - Suppliers must comply with Singapore food safety and
+      environmental regulations.
+    - Halal certification required for relevant product lines.
+    - Suppliers must declare use of palm oil and prefer RSPO
+      certified sources where available.
+    - Anti-bribery clauses included in all purchase contracts.
+
+Supplier Audit Frequency
+    - Strategic ingredient suppliers: every 18 months.
+    - Packaging suppliers              : self-questionnaire only.
+
+Escalation Procedure
+    - Non-compliance escalated to Head of Procurement first.
+    - Repeated breaches reviewed by Managing Director.
+    - No formal Board-level oversight defined yet.
+
+Signed:  D. Koh, Head of Procurement   2024-11-15
+================================================================
