@@ -57,7 +57,9 @@ function addFiles(list) {
   updateButtons();
 }
 
-dropzone.addEventListener("click", () => fileInput.click());
+// The dropzone is a <label> wrapping the file input, so the browser handles
+// click-to-open natively. Adding a JS click handler causes a double-fire that
+// makes the dialog open-then-close on the first click. Only attach `change`.
 fileInput.addEventListener("change", (e) => addFiles(e.target.files));
 
 ["dragenter", "dragover"].forEach((evt) =>
